@@ -1,7 +1,9 @@
 ---
 title: "Jackson Barnett"
 image: mypic.png
-resources: resume.pdf
+resources: 
+    - resume.pdf
+    - CV.pdf
 about:
   template: trestles
   image-shape: round
@@ -16,6 +18,9 @@ about:
     - text: Resume
       icon: file-text
       href: resume.pdf
+    - text: CV
+      icon: file-text
+      href: CV.pdf
   id: ppc
 ---
 
