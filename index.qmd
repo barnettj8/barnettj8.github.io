@@ -1,6 +1,6 @@
 ---
 title: "Jackson Barnett"
-image: mypic.png
+image: CanoePic.jpg
 resources: 
     - resume.pdf
     - CV.pdf
@@ -8,7 +8,7 @@ resources:
 about:
   template: jolla
   image-shape: round
-  image-width: 20em
+  image-width: 22em
   links: 
     - text: Email
       icon: envelope
