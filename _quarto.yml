@@ -8,7 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - Resume.qmd
+      - href: resume.pdf
+        text: Resume
+      - href: CV.pdf
+        text: CV
 
 format:
   html:
