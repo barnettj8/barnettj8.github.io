@@ -3,16 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Portfolio"
+  title: "Jackson Barnett"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Resume.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: Sandstone
+    linkcolor: "#254276"
     css: styles.css
     toc: true
 
