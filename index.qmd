@@ -5,7 +5,7 @@ resources:
     - resume.pdf
     - CV.pdf
 about:
-  template: trestles
+  template: jolla
   image-shape: round
   image-width: 20em
   links: 
@@ -27,14 +27,13 @@ about:
 :::{#ppc}
 
 
-
-
-
-Bio
+## Bio
 
 I’m an environmental scientist, finishing my Masters Degere in Environmental Studies at Virginia Commonwealth University. Currently, I split my time between researching the drivers of light attenuation in Virginia reservoirs, and teaching an undergraduate ecology course. In prior roles, I have worked assessing stream impairments for TMDL creation, creating remote water quality monitoring stations, and monitoring a series of urban streams across Richmond, Va. By training I’m either a limnologist (specializing in light, sediment, and algae interactions) or an hydrologist; professionally, I am interested in freshwater ecology, data analysis, GIS, and protecting Virginia's water resources.
 
 On this site I keep a list of my professional activities, presentations, CV, and Resume.
+
+## Selected Projects
 
 
 
