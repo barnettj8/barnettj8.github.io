@@ -4,6 +4,7 @@ image: mypic.png
 resources: 
     - resume.pdf
     - CV.pdf
+    - Poster.pdf
 about:
   template: jolla
   image-shape: round
@@ -33,9 +34,12 @@ I’m an environmental scientist, finishing my Masters Degere in Environmental S
 
 On this site I keep a list of my professional activities, presentations, CV, and Resume.
 
-## Selected Projects
+## Highlighted Projects
 
-
+View award-winning research poster <a href="Poster.pdf" target="_blank">here</a>.
+ - 1st place in the 2024 VWEA & WaterJAM Poster Contest
+ 
+ 
 
 
 
