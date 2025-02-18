@@ -7,7 +7,7 @@ resources:
 about:
   template: trestles
   image-shape: round
-  image-width: 15em
+  image-width: 20em
   links: 
     - text: Email
       icon: envelope
@@ -26,6 +26,18 @@ about:
 
 :::{#ppc}
 
-Dedicated water quality scientist with 5 years of experience studying impairment, sediment, and light in freshwater ecosystems. Skilled in fieldwork, study design, and statistical analysis, with a track record of successful research projects under the mentorship of Drs. Robert Brent and Paul Bukaveckas. Experienced in environmental concepts and data analysis through coursework in data literacy and a teaching position in an upper level ecology lab.
+
+
+
+
+Bio
+
+I’m an environmental scientist, finishing my Masters Degere in Environmental Studies at Virginia Commonwealth University. Currently, I split my time between researching the drivers of light attenuation in Virginia reservoirs, and teaching an undergraduate ecology course. In prior roles, I have worked assessing stream impairments for TMDL creation, creating remote water quality monitoring stations, and monitoring a series of urban streams across Richmond, Va. By training I’m either a limnologist (specializing in light, sediment, and algae interactions) or an hydrologist; professionally, I am interested in freshwater ecology, data analysis, GIS, and protecting Virginia's water resources.
+
+On this site I keep a list of my professional activities, presentations, CV, and Resume.
+
+
+
+
 
 :::
