@@ -8,12 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: barnettportfolio.qmd
+        text: Portfolio
       - href: resume.pdf
         text: Resume
       - href: BarnettCV.pdf
         text: CV
-      - href: barnettportfolio.qmd
-        text: Portfolio
 
 format:
   html:
