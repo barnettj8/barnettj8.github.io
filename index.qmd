@@ -13,7 +13,7 @@ about:
     - text: Email
       icon: envelope
       href: mailto:19jbarnett3289@gmail.com
-    - text: linkedin
+    - text: Linkedin
       icon: Linkedin
       href: www.linkedin.com/in/barnettjackson
     - text: Resume
