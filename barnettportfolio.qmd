@@ -4,10 +4,9 @@ title: "Portfolio"
 
 ## Poster Presentations
 
-Assessment of Drivers in Virginia Reservoir Water Clarity - <a href="Poster.pdf" target="_blank">Click Here</a>
-- 1st place in the 2024 VWEA & WaterJAM Poster Contest
+Assessment of Drivers in Virginia Reservoir Water Clarity - <a href="Poster.pdf" target="_blank">Click Here</a> - 1st place in the 2024 VWEA & WaterJAM Poster Contest
 
-Upcoming 2025 VCU Graduate Research Symposium Poster: Network Map Analysis of WaSH (Water, Sanitation, Hygiene) issues in Delhi, India 
+Upcoming 2025 VCU Graduate Research Symposium Poster: Network Map Analysis of WaSH (Water, Sanitation, Hygiene) issues in Delhi, India
 
 Upcoming 2025 VCU Graduate Research Symposium Poster: Assessment of Drivers in Virginia Reservoir Water Clarity
 
@@ -31,11 +30,12 @@ Sediment Monitoring and Management Tool for Improved Stream Health Below Lake Me
 
 ## Graphic Designs
 
-Virginia's Scenic Rivers:
+[Virginia's Scenic Rivers:]{.underline}
 
-  Infographic - <a href="Barnett_Infographic.png" target="_blank">Click Here</a><br>
-  Poster Choice 1 - <a href="option3.png" target="_blank">Click Here</a><br>
-  Poster Choice 2 - <a href="option1.png " target="_blank">Click Here</a><br>
-  Poster Choice 3 - <a href="option2.png " target="_blank">Click Here</a>
+Infographic - <a href="Barnett_Infographic.png" target="_blank">Click Here</a><br>
 
+Poster Choice 1 - <a href="option3.png" target="_blank">Click Here</a><br>
 
+Poster Choice 2 - <a href="option1.png " target="_blank">Click Here</a><br>
+
+Poster Choice 3 - <a href="option2.png " target="_blank">Click Here</a>
