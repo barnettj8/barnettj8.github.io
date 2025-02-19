@@ -33,9 +33,9 @@ Sediment Monitoring and Management Tool for Improved Stream Health Below Lake Me
 
 Virginia's Scenic Rivers:
 
-  Infographic - <a href="Barnett_Infographic.png" target="_blank">Click Here</a>
-  Poster Choice 1 - <a href="option3.png" target="_blank">Click Here</a>
-  Poster Choice 2 - <a href="option1.png " target="_blank">Click Here</a>
+  Infographic - <a href="Barnett_Infographic.png" target="_blank">Click Here</a><br>
+  Poster Choice 1 - <a href="option3.png" target="_blank">Click Here</a><br>
+  Poster Choice 2 - <a href="option1.png " target="_blank">Click Here</a><br>
   Poster Choice 3 - <a href="option2.png " target="_blank">Click Here</a>
 
 
