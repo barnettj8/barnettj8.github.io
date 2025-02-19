@@ -3,7 +3,7 @@ title: "Jackson Barnett"
 image: CanoePic.jpg
 resources: 
     - resume.pdf
-    - CV.pdf
+    - BarnettCV.pdf
     - Poster.pdf
 about:
   template: jolla
@@ -21,7 +21,7 @@ about:
       href: resume.pdf
     - text: CV
       icon: file-text
-      href: CV.pdf
+      href: BarnettCV.pdf
   id: ppc
 ---
 
@@ -39,7 +39,7 @@ On this site I keep a porfolio of representative academic documents, presentatio
 View award-winning research poster <a href="Poster.pdf" target="_blank">here</a>
  - 1st place in the 2024 VWEA & WaterJAM Poster Contest
  
- View description of Masters Thesis project on my <a href="CV.pdf" target="_blank">CV</a> and <a href="Resume.pdf" target="_blank">Resume</a>
+ View description of Masters Thesis project on my <a href="BarnettCV.pdf" target="_blank">CV</a> and <a href="Resume.pdf" target="_blank">Resume</a>
 
 
 

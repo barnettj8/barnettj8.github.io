@@ -10,7 +10,7 @@ website:
         text: Home
       - href: resume.pdf
         text: Resume
-      - href: CV.pdf
+      - href: BarnettCV.pdf
         text: CV
       - href: barnettportfolio.qmd
         text: Portfolio
