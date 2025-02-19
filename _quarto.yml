@@ -18,6 +18,7 @@ website:
 format:
   html:
     theme: Sandstone
+    backgroundcolor: "#fffef9"
     linkcolor: "#254276"
     css: styles.css
     toc: true
