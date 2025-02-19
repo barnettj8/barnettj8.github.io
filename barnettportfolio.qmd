@@ -4,7 +4,7 @@ title: "Portfolio"
 
 ## Poster Presentations
 
-Assessment of Drivers in Virginia Reservoir Water Clarity - <a href="Poster.pdf" target="_blank">Click Here</a>.
+Assessment of Drivers in Virginia Reservoir Water Clarity - <a href="Poster.pdf" target="_blank">Click Here</a>
 - 1st place in the 2024 VWEA & WaterJAM Poster Contest
 
 Upcoming 2025 VCU Graduate Research Symposium Poster: Network Map Analysis of WaSH (Water, Sanitation, Hygiene) issues in Delhi, India 
@@ -13,29 +13,29 @@ Upcoming 2025 VCU Graduate Research Symposium Poster: Assessment of Drivers in V
 
 ## R Projects
 
-Analyzing Sex Ratio Variation in Araptus attenuatus: Statistical and Spatial Approaches <a href="https://barnettj8.github.io/ENVS-543/Markdown/Barnett_FinalWritten.html" target="_blank">Click Here</a>.
+Analyzing Sex Ratio Variation in Araptus attenuatus: Statistical and Spatial Approaches <a href="https://barnettj8.github.io/ENVS-543/Markdown/Barnett_FinalWritten.html" target="_blank">Click Here</a>
 
-Preliminary comparisons of reservoir site differences (Anova & Regression Work-Up - <a href=" https://barnettj8.github.io/ENVS-543/Markdown/Thesis_ANOVA.html" target="_blank">Click Here</a>.
+Preliminary comparisons of reservoir site differences (Anova & Regression Work-Up - <a href=" https://barnettj8.github.io/ENVS-543/Markdown/Thesis_ANOVA.html" target="_blank">Click Here</a>
 
 ## GIS Projects
 
 Evaluating Virginia Water Quality Monitoring Stations for Potential Reservoir Chlorophyll Studies - <a href="GISPaper.pdf" target="_blank">Click Here</a>
 
-ArcGIS Online Bald Eagle Sustainability Analysis Story Map - <a href="https://storymaps.arcgis.com/stories/e1f8cc9297ba47668ac7c00dda5ebb67" target="_blank">Click Here</a>.
+ArcGIS Online Bald Eagle Sustainability Analysis Story Map - <a href="https://storymaps.arcgis.com/stories/e1f8cc9297ba47668ac7c00dda5ebb67" target="_blank">Click Here</a>
 
 ## Writing Samples
 
-Project Proposal: Assessment of Drivers in Virginia Reservoir Water Clarity - <a href="Proposal.pdf" target="_blank">Click Here</a>.
+Project Proposal: Assessment of Drivers in Virginia Reservoir Water Clarity - <a href="Proposal.pdf" target="_blank">Click Here</a>
 
-Sediment Monitoring and Management Tool for Improved Stream Health Below Lake Merriweather (JMU Final Capstone Report) - <a href="Capstone.pdf" target="_blank">Click Here</a>. 
+Sediment Monitoring and Management Tool for Improved Stream Health Below Lake Merriweather (JMU Final Capstone Report) - <a href="Capstone.pdf" target="_blank">Click Here</a>
 
 ## Graphic Designs
 
 Virginia's Scenic Rivers:
 
-  Infographic - <a href="Barnett_Infographic.png" target="_blank">Click Here</a>.
-  Poster Choice 1 - <a href="option3.png" target="_blank">Click Here</a>.
-  Poster Choice 2 - <a href="option1.png " target="_blank">Click Here</a>.
-  Poster Choice 3 - <a href="option2.png " target="_blank">Click Here</a>.
+  Infographic - <a href="Barnett_Infographic.png" target="_blank">Click Here</a>
+  Poster Choice 1 - <a href="option3.png" target="_blank">Click Here</a>
+  Poster Choice 2 - <a href="option1.png " target="_blank">Click Here</a>
+  Poster Choice 3 - <a href="option2.png " target="_blank">Click Here</a>
 
 
