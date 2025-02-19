@@ -1,0 +1,25 @@
+---
+title: "Portfolio"
+---
+
+## Poster Presentations
+
+Assessment of Drivers in Virginia Reservoir Water Clarity - <a href="Poster.pdf" target="_blank">Click Here</a>.
+- 1st place in the 2024 VWEA & WaterJAM Poster Contest
+
+## R Projects
+
+
+
+## GIS Projects
+
+Evaluating Virginia Water Quality Monitoring Stations for Potential Reservoir Chlorophyll Studies - <a href="GISPaper.pdf" target="_blank">Click Here</a>
+
+ArcGIS Online Bald Eagle Sustainability Analysis Story Map - <a href="https://storymaps.arcgis.com/stories/e1f8cc9297ba47668ac7c00dda5ebb67" target="_blank">Click Here</a>.
+
+
+
+
+
+
+

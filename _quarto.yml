@@ -12,6 +12,8 @@ website:
         text: Resume
       - href: CV.pdf
         text: CV
+      - href: barnettportfolio.qmd
+        text: Portfolio
 
 format:
   html:
